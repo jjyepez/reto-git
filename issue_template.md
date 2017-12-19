@@ -1,4 +1,5 @@
 ## ¿Cómo puedo replicar el problema?
-Por favor explícanos cómo replicar el problema paso a paso y en qué sistema operativo ocurre.
+_Por favor explícanos cómo replicar el problema paso a paso y en qué sistema operativo ocurre._
+
 ## ¿En qué versión del producto ocurre?
-Por favor indícanos algunos detalles sobre la versión del producto en la que se te presentpó el problema.
+_Por favor indícanos algunos detalles sobre la versión del producto en la que se te presentpó el problema._
