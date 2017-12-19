@@ -1,9 +1,10 @@
 ## Descripción
-¿Qué ha cambiado?
+_¿Qué ha cambiado?_
 
 - [ ] Frontend
 - [ ] Backend
 - [ ] configuración del server
 
 ## ¿Cómo puedo probar los cambios?
-Suministre un URL para ver el live preview
+_Suministre un URL para ver el live preview_
+
