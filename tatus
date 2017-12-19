@@ -1,0 +1,41 @@
+*   [33md7527ea[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;33mtag: beta-1[m[33m, [m[1;31morigin/master[m[33m)[m Merge branch 'master' of github.com:jjyepez/reto-git
+[31m|[m[32m\[m  
+[31m|[m * [33m737c6ac[m Create README.md
+*   [33m9055bc3[m Merge branch 'datos'
+[33m|[m[34m\[m  
+[33m|[m * [33me5b458f[m Cargando datos prueba
+* [34m|[m [33m4ef8f43[m Listo beta
+* [34m|[m   [33mdf500c0[m Merge branch 'hotfix-2'
+[35m|[m[36m\[m [34m\[m  
+[35m|[m * [34m|[m [33m2bb400b[m Listo hotfix 2
+[35m|[m * [34m|[m [33m5e5eb8a[m Avances hotfix 2
+* [36m|[m [34m|[m [33m4da5eb3[m Listos backend y frontend
+* [36m|[m [34m|[m   [33m7b72ce0[m Merge branch 'frontend'
+[1;31m|[m[1;32m\[m [36m\[m [34m\[m  
+[1;31m|[m * [36m|[m [34m|[m [33m53697cf[m Avances frontend 4
+[1;31m|[m * [36m|[m [34m|[m [33m78b95a5[m Avances frontend 3
+[1;31m|[m * [36m|[m [34m|[m [33md5fd0fc[m Avances frontend 2
+[1;31m|[m * [36m|[m [34m|[m [33m34e0ba1[m Avances frontend 1
+* [1;32m|[m [36m|[m [34m|[m [33m2be3b6c[m Avances master 5
+* [1;32m|[m [36m|[m [34m|[m   [33m32ea179[m Merge branch 'backend'
+[36m|[m[1;34m\[m [1;32m\[m [36m\[m [34m\[m  
+[36m|[m [1;34m|[m[36m_[m[1;32m|[m[36m/[m [34m/[m  
+[36m|[m[36m/[m[1;34m|[m [1;32m|[m [34m|[m   
+[36m|[m * [1;32m|[m [34m|[m [33m1b37b43[m Avances backend 2
+[36m|[m * [1;32m|[m [34m|[m [33m708292c[m Avances backend 1
+* [1;34m|[m [1;32m|[m [34m|[m [33m3363135[m Avances master 4
+* [1;34m|[m [1;32m|[m [34m|[m   [33md7c446f[m Merge branch 'hotfix-1'
+[1;35m|[m[1;36m\[m [1;34m\[m [1;32m\[m [34m\[m  
+[1;35m|[m * [1;34m|[m [1;32m|[m [34m|[m [33m4b48569[m Listo hotfix 1
+* [1;36m|[m [1;34m|[m [1;32m|[m [34m|[m [33mc5d3c1f[m Avances master 3
+[1;36m|[m[1;36m/[m [1;34m/[m [1;32m/[m [34m/[m  
+* [1;34m|[m [1;32m|[m [34m|[m [33mf678135[m Avances master 2
+[34m|[m [1;34m|[m[34m_[m[1;32m|[m[34m/[m  
+[34m|[m[34m/[m[1;34m|[m [1;32m|[m   
+* [1;34m|[m [1;32m|[m [33m92d700b[m Avances en master 1
+* [1;34m|[m [1;32m|[m [33m286a009[m Creada rama frontend
+[1;32m|[m [1;34m|[m[1;32m/[m  
+[1;32m|[m[1;32m/[m[1;34m|[m   
+* [1;34m|[m [33mca4c5c0[m Creada rama backend
+[1;34m|[m[1;34m/[m  
+* [33m97cfa87[m Commit inicial
